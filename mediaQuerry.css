@@ -1,0 +1,103 @@
+@media (max-width: 2560px){
+    .box1{
+        width: 1455px;
+    }
+    .box2{
+        width: 1455px;
+    }
+    .box3{
+        width: 1455px;
+    }
+    .box4{
+        width: 1455px;
+    }
+    .box5{
+        width: 1455px;
+    }
+}
+
+@media (max-width:1700px){
+    .body{
+        width: 900vw;
+    }
+
+    .section-header .header-box-left{
+        margin-left: 100px;
+    }
+
+    .logo-starbucks{
+        position: absolute;
+        left: 45px;
+    }
+
+    footer{
+        width: 100vw;
+        padding: 24px 100px 0px 100px;
+        margin: 0px;
+    }
+
+    .ul-icons-social{
+        padding-left: 10px;
+        animation: 20s;
+        margin: 0px;
+        width: 100%;
+    }
+
+    .box-politica-priv{
+        width: 100%;
+    }
+    
+    .company{
+        width: 100%;
+    }
+
+    hr{
+        width: 100%;
+        margin-bottom: 19px;
+    }
+
+    .box-in-div{
+        width: 100%;
+    }
+    .box-box-in-div{
+        width: 100%;
+    }
+
+    .box5{
+        margin-bottom: 0px;
+    }
+
+    .defense{
+        margin: 20px;
+    }
+}
+
+@media (max-width: 1440px){
+    .box1{
+        width: 100%;
+    }
+    .box2{
+        width: 100%;
+    }
+    .box3{
+        width: 100%;
+    }
+    .box4{
+        width: 100%;
+    }
+    .box5{
+        width: 100%;
+    }
+    header{
+        width: 100%;
+    }
+}
+
+@media (max-width: 1024px){
+    header{
+        width: 100%;
+    }
+    body{
+        width: 100vw;
+    }
+}
